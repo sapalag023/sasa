@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["789748220599074826"],
+        "ACTIVITY_TEXT": "LozBey",
+        "GUILD_ID": "793214608638738453",
+        "VOICE_CHANNEL": "809814507173576734",
+        "MIN_STAFF_ROLE": "815261953106640906"
+    },
+    "FILES": {
+        "WELCOME": "ses/hosgeldin.mp3",
+        "STAFF": "ses/yetkili.mp3"
+    },
+    "TOKEN": "NzkzMjE0NTU5Mjc0OTI2MDgw.X-pAoA.LDuReD6JvApO40DHNPMZNmohSaM"
+} 
